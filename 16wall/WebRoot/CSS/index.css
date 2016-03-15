@@ -1,0 +1,113 @@
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<!--
+body{
+	margin:0px;
+	font-size: 9pt;
+}
+#header{
+	background:url(../images/bg_top.jpg) repeat-x;
+	height:112px;
+	margin:0;
+	padding:0
+}
+#navigation{
+	background:url(../images/bg_navigation.gif) repeat-x;
+	height:35px;
+	text-align:center;
+	line-height:35px;
+	margin:0;
+	padding-top:4px;
+	padding-bottom:0px;
+}
+#navigation ul{
+	list-style-type:none;
+	text-align:center;
+	padding:0px;
+	margin:0px;
+	width:650px;
+}
+#navigation li{
+	float:left;
+	text-align:center;
+	padding:0px 2px 0px 0px;
+	line-height:22px;
+}
+#navigation  a{
+	font-size: 9pt;	text-decoration:underline; font-weight:bold;color: #F54292;
+}
+#navigation  a:hover{
+	font-size: 9pt;	text-decoration:underline; font-weight:bold;color: #FF6600;
+}
+.navigation_input{
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #7B98B1;
+	height:19px;
+}
+#copyright{
+	background:url(../images/bg_copyright.jpg) repeat-x;
+	text-align:center;
+	padding-top:1px;
+	padding-bottom:1px;
+	font-size:9pt;
+}
+#copyright ul{
+	list-style:none;
+	line-height:20px;
+}
+#main{
+	background:url(../images/bg_main.jpg);
+	height:590px;
+	margin:0px;
+}
+#shadeDiv{
+	filter:alpha(Opacity=35);opacity:0.35;background:#000;position:absolute;
+}
+#scrollScrip{
+	background:url(../images/scrollScript_bg.jpg) repeat-x;
+	height:36px;
+	text-align:left;
+	line-height:36px;
+	margin:0;
+	
+	padding-left:20px;
+}
+
+td {
+	font-size: 9pt;	line-height:150%;
+}
+a:hover {
+	font-size: 9pt;	color: #FF4400;
+}
+a {
+	font-size: 9pt;	text-decoration: none;	color: #3C404D;
+}
+.btn_grey {
+	font-family: "宋体";	font-size: 9pt;color: #333333;	
+	background-color: #eeeeee;cursor: hand;padding:1px;height:19px;
+	border-top: 1px solid #FFFFFF;border-right:1px solid #666666;
+	border-bottom: 1px solid #666666;border-left: 1px solid #FFFFFF;
+}
+input {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+}
+.wenbenkuang {
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+	background-image:url(../images/mrbccd.jpg);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+}
+form{
+	padding:0px; 
+	margin:0px;
+}
+.noborder{
+	border:0px;
+}
+-->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" "http://struts.apache.org/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+  <data-sources />
+  <form-beans>
+  	<form-bean name="scripForm" type="com.model.ScripForm"/>
+  </form-beans>
+  <global-exceptions />
+  <global-forwards />
+  <action-mappings>
+  	<action name="scripForm" path="/scrip" scope="request" type="com.action.ScripAction" validate="true">
+  		<forward name="scripQuery" path="/wishingWall.jsp"/>
+  		<forward name="scripAdd" path="/scripAdd_ok.jsp"/>
+  		<forward name="holdoutAdd" path="/holdoutAdd.jsp"/>
+  		<forward name="scripList" path="/scripList.jsp"/>
+  		<forward name="scrollScrip" path="/scrollScrip_ok.jsp"/>
+  		<forward name="error" path="/error.jsp"/>
+  	</action>
+  </action-mappings>
+  
+  <message-resources parameter="com.yourcompany.struts.ApplicationResources" />
+</struts-config>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="16wall"
+  id="myeclipse.1271405075281"
+  context-root="/16wall"
+  j2ee-spec="5.0"
+  archive="16wall.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

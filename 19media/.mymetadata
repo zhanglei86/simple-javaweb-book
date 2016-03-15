@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="19media"
+  id="myeclipse.1280456070781"
+  context-root="/19media"
+  j2ee-spec="5.0"
+  archive="19media.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

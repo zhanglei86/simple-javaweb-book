@@ -1,0 +1,140 @@
+<!--
+td {
+	font-size: 10pt;	color: #000000;
+}
+a:hover {
+	font-size: 10pt;	color: #FF0000;
+}
+a {
+	font-size: 10pt;	text-decoration: none;	color: #0100CC;	
+}
+
+.blue {
+	font-size: 9pt;	color: #034683;
+}
+.bgcolor {
+	font-size: 9pt;	color: #1980DB;
+}
+.btn_grey {
+	font-family: "ËÎÌו";	font-size: 9pt;color: #333333;	
+	background-color: #eeeeee;cursor: hand;padding:1px;height:19px;
+	border-top: 1px solid #FFFFFF;border-right:1px solid #666666;
+	border-bottom: 1px solid #666666;border-left: 1px solid #FFFFFF;
+}
+
+.word_white{
+ color:#FFFFFF;
+}
+.word_deepgrey{
+ color:#999999;
+}
+.word_orange{
+ color:#FF6600;
+}
+.word_green{
+ color:#FEECEA;
+}
+.noborder{
+border:none;
+}
+.word_gray{
+ color:#dddddd;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;	
+	
+}
+textarea {
+	font-family: "ËÎÌו";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+}
+
+
+hr{
+border-style:dashed;
+color:#CCCCCC;
+}
+
+
+
+
+
+
+.word10pt{
+font-size: 10pt;
+
+}
+
+
+
+
+
+.a1:link {    
+	COLOR: #FFFFFF; TEXT-DECORATION: none; font-size:15px;
+}
+.a1:visited {   
+	COLOR: #FFFFFF; TEXT-DECORATION: none; font-size:15px;
+}
+.a1:active {    
+	COLOR: #FFFFFF; TEXT-DECORATION: none; font-size:15px;
+}
+.a1:hover {   
+	COLOR: #FF0000; font-size:15px;
+}
+
+.a2:link {    
+	COLOR: #606060; TEXT-DECORATION: underline ; font-size:12px;
+}
+.a2:visited {   
+	COLOR: #606060; TEXT-DECORATION: underline; font-size:12px;
+}
+.a2:active {    
+	COLOR: #606060; font-size:12px; text-decoration:underline;
+	
+}
+.a2:hover {   
+	COLOR: #FF0000; font-size:12px;
+}
+
+
+
+select{
+	font-family: "ËÎÌו";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+}
+
+
+.cannleLine{
+	
+	border: 0px solid #999999;
+}
+
+
+
+
+.cannelBorder{
+border: 0px solid #999999;
+}
+
+
+
+
+.paragraph{
+    line-height:2em;	
+}
+
+.wordspace2{
+letter-spacing:1pt;
+}
+.wordspace{
+letter-spacing:2pt;
+}
+
+-->

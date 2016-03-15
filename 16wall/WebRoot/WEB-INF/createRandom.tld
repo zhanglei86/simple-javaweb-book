@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee web-jsptaglibrary_2_0.xsd"
+    version="2.0">
+     <description>生成随机数</description>
+     <tlib-version>1.2</tlib-version>
+	 <jsp-version>1.2</jsp-version>
+     <short-name>random</short-name>
+	<tag>
+     <name>createRandom</name>                    
+	 <tag-class>com.tools.RandomSupportTag</tag-class>
+	 <attribute>
+	 <name>n</name>
+	 <required>true</required>
+	 </attribute>
+	 <attribute>
+	 <name>base</name>
+	 </attribute>
+	</tag>
+</taglib>
